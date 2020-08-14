@@ -1,5 +1,5 @@
 
-view this project at: (https://philipzubel.github.io/covid19tracker/)
+View this project at: (https://philipzubel.github.io/covid19tracker/)
 
 This web application is built around the API: (https://covid19.mathdro.id/api)
 
